@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hirata/OneDrive/Documents/CN/Gauss-Determinate/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+
