@@ -1,3 +1,0 @@
-/home/hirata/OneDrive/Documents/CN/Gauss-Determinate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/hirata/OneDrive/Documents/CN/Gauss-Determinate/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/hirata/OneDrive/Documents/CN/Gauss-Determinate/cmake-build-debug/CMakeFiles/Implementacao.dir
